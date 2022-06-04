@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello,I'm Elvis Osano 👋
 
-<!--
-**Tonny-Savage/Tonny-Savage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Linux System Adminstration
+- 🌱 I’m currently learning Golang
+- 👯 I’m looking to collaborate on Web Projects
+- 🤔 I’m looking for help with AWS and Cloud Computing
+- 💬 Ask me about Javascript 😍
+- 📫 How to reach me: 
+- 😄 Pronouns: Definetly He/Him
+- ⚡ Fun fact: Huh,Am Addicted to Coding😢
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonny-Savage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
