@@ -19,7 +19,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 👯 I’m looking to collaborate on Web Projects
 - 🤔 I’m looking for help with AWS and Cloud Computing
 - 💬 Ask me about Javascript 😍
-- 😄 Pronouns: Definatly He/Him
 - ⚡ Fun fact: Huh,Am Addicted to Coding😢
 ### :hammer_and_wrench: Languages and Tools :
 ### Front_end:
